@@ -301,6 +301,9 @@ jobs:
         tag: custom-amd64
 ```
 
+### Deploy to Hostinger
+
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/vps/docker-hosting?compose_url=https://github.com/stellar/quickstart/)
 
 ### Deploy to Digital Ocean
 
